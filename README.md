@@ -22,3 +22,11 @@ npm install
 ```js
 grunt serve
 ```
+
+## Troubleshooting
+
+If you're running into problems with the app not finding angular or other dependencies run:
+
+```js
+bower install
+```
